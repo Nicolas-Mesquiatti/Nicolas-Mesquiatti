@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Nicolás Mesquiatti
+# ¡Hola! Mi nombre es Nicolás Mesquiatti
 
 🎓 Estudiante de la Tecnicatura en Ciencia de Datos en el Instituto Tecnológico Beltrán  
 🔍 En búsqueda de mi primera experiencia como Analista de Datos o Data Trainee  
