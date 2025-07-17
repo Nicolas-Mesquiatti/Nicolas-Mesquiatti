@@ -6,6 +6,7 @@ Con Conocimientos en **Python**, **SQL**, **R**, visualización de datos y NLP
 
 ## 🧠 ¿Qué estoy aprendiendo?
 
+- 📒 Uso de Jupyter Notebook y Google Colab para prototipos y análisis
 - 📊 Dashboards en R y análisis exploratorio de datos
 - 🧹 Limpieza de datos y visualización con Python (Pandas, Seaborn, Matplotlib)
 - 💬 Procesamiento de lenguaje natural con NLTK y spaCy
