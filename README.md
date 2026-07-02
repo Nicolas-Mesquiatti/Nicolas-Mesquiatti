@@ -1,4 +1,6 @@
-# Hola, soy Nicolás Mesquiatti
+# 
+   ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=18&pause=1000&color=39FF14&background=000000&center=true&vCenter=true&width=600&height=60&lines=NICOLAS+MESQUIATTI;DATA+ANALYST+%2B+AUTOMATION;PRESS+START+TO+CONNECT)
+
 Estudiante de la **Tecnicatura en Ciencia de Datos e Inteligencia Artificial** en el Instituto Tecnológico Beltrán.  
 Busco mi primera experiencia como **Analista de Datos**, **Data Trainee** o en **automatización de procesos con IA**, aplicando mis conocimientos en análisis, visualización, procesamiento de datos y desarrollo de workflows automatizados.
  
