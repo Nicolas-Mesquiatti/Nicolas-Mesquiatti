@@ -31,10 +31,10 @@ Busco mi primera experiencia como **Analista de Datos**, **Data Trainee** o en *
 ---
  
 ## Proyectos destacados
-- 📊 **[Dashboard Fútbol Argentino](https://github.com/Nicolas-Mesquiatti/Dashboard-Futbol-Argentino)** — análisis interactivo de +12.000 jugadores del fútbol argentino (2008–2022). *Python, Streamlit*
-- 📊 **[Dashboard Anime](https://github.com/Nicolas-Mesquiatti/Dashboard-Anime)** — visualización interactiva con filtros avanzados y temas personalizados. *R, Shiny*
-- 🤖 **[PostIA](https://github.com/Nicolas-Mesquiatti/postia)** — sistema de automatización end-to-end para publicación de contenido en redes sociales con IA. *n8n, Docker, Supabase*
-- 🎓 **[Predicción de Abandono Estudiantil](https://github.com/Nicolas-Mesquiatti/PrediccionAbandono-Estudiantes)** — modelo predictivo con árboles de decisión basado en datos del primer año de cursada.
+-  **[Dashboard Fútbol Argentino](https://github.com/Nicolas-Mesquiatti/Dashboard-Futbol-Argentino)** — análisis interactivo de +12.000 jugadores del fútbol argentino (2008–2022). *Python, Streamlit*
+-  **[Dashboard Anime](https://github.com/Nicolas-Mesquiatti/Dashboard-Anime)** — visualización interactiva con filtros avanzados y temas personalizados. *R, Shiny*
+-  **[PostIA](https://github.com/Nicolas-Mesquiatti/postia)** — sistema de automatización end-to-end para publicación de contenido en redes sociales con IA. *n8n, Docker, Supabase*
+-  **[Predicción de Abandono Estudiantil](https://github.com/Nicolas-Mesquiatti/PrediccionAbandono-Estudiantes)** — modelo predictivo con árboles de decisión basado en datos del primer año de cursada.
 ---
  
 ## En aprendizaje continuo
