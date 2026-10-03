@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 150" width="460" height="150" role="img" aria-label="Dashboard-Futbol-Argentino">
-<style>text{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Courier New',monospace}</style>
-<rect x="0.5" y="0.5" width="459" height="149" rx="10" fill="#161b22" stroke="#30363d"/>
-<text x="20" y="34" fill="#39ff14" style="font-size:17px;font-weight:700">Dashboard-Futbol-Argentino</text>
-<text x="20" y="62" fill="#e6edf3" style="font-size:12.5px">Análisis interactivo de más de 12.000 jugadores del fútbol</text>
-<text x="20" y="81" fill="#e6edf3" style="font-size:12.5px">argentino (2008-2022). Python y Streamlit.</text>
-</svg>

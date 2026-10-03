@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 150" width="460" height="150" role="img" aria-label="container-tracking-bot">
-<style>text{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Courier New',monospace}</style>
-<rect x="0.5" y="0.5" width="459" height="149" rx="10" fill="#161b22" stroke="#30363d"/>
-<text x="20" y="34" fill="#39ff14" style="font-size:17px;font-weight:700">container-tracking-bot</text>
-<text x="20" y="62" fill="#e6edf3" style="font-size:12.5px">Bot de scraping que consulta el tracking de cada naviera</text>
-<text x="20" y="81" fill="#e6edf3" style="font-size:12.5px">según el número de contenedor y actualiza un Excel. Corre</text>
-<text x="20" y="100" fill="#e6edf3" style="font-size:12.5px">en un VPS.</text>
-</svg>

@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 150" width="460" height="150" role="img" aria-label="postia">
-<style>text{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Courier New',monospace}</style>
-<rect x="0.5" y="0.5" width="459" height="149" rx="10" fill="#ffffff" stroke="#d0d7de"/>
-<text x="20" y="34" fill="#1a7f37" style="font-size:17px;font-weight:700">postia</text>
-<text x="20" y="62" fill="#1f2328" style="font-size:12.5px">Automatización end-to-end para publicar contenido en redes</text>
-<text x="20" y="81" fill="#1f2328" style="font-size:12.5px">sociales con IA. n8n, Docker, Supabase.</text>
-</svg>
