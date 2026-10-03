@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 216" width="480" height="216" role="img" aria-label="GitHub stats">
+<style>text{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Courier New',monospace}</style>
+<rect x="0.5" y="0.5" width="479" height="215" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+<text x="24" y="38" fill="#1a7f37" style="font-size:17px;font-weight:700">GitHub stats</text>
+<text x="24" y="78" fill="#656d76" style="font-size:14px">Repos públicos</text>
+<text x="456" y="78" text-anchor="end" fill="#1f2328" style="font-size:16px;font-weight:700">0</text>
+<line x1="24" y1="90" x2="456" y2="90" stroke="#d0d7de" stroke-opacity="0.6"/>
+<text x="24" y="112" fill="#656d76" style="font-size:14px">Estrellas recibidas</text>
+<text x="456" y="112" text-anchor="end" fill="#1f2328" style="font-size:16px;font-weight:700">0</text>
+<line x1="24" y1="124" x2="456" y2="124" stroke="#d0d7de" stroke-opacity="0.6"/>
+<text x="24" y="146" fill="#656d76" style="font-size:14px">Forks</text>
+<text x="456" y="146" text-anchor="end" fill="#1f2328" style="font-size:16px;font-weight:700">0</text>
+<line x1="24" y1="158" x2="456" y2="158" stroke="#d0d7de" stroke-opacity="0.6"/>
+<text x="24" y="180" fill="#656d76" style="font-size:14px">Seguidores</text>
+<text x="456" y="180" text-anchor="end" fill="#1f2328" style="font-size:16px;font-weight:700">0</text>
+<line x1="24" y1="192" x2="456" y2="192" stroke="#d0d7de" stroke-opacity="0.6"/>
+</svg>

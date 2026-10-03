@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 150" width="460" height="150" role="img" aria-label="comex-news-automation">
+<style>text{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Courier New',monospace}</style>
+<rect x="0.5" y="0.5" width="459" height="149" rx="10" fill="#161b22" stroke="#30363d"/>
+<text x="20" y="34" fill="#39ff14" style="font-size:17px;font-weight:700">comex-news-automation</text>
+<text x="20" y="62" fill="#e6edf3" style="font-size:12.5px">Monitoreo normativo aduanero con IA: boletín diario</text>
+<text x="20" y="81" fill="#e6edf3" style="font-size:12.5px">deduplicado y página para elegir qué noticias enviar a los</text>
+<text x="20" y="100" fill="#e6edf3" style="font-size:12.5px">clientes. n8n, Google Sheets, Gmail.</text>
+</svg>
