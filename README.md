@@ -24,8 +24,6 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Nicolas-Mesquiatti&style=flat&color=39ff14&label=profile+views" alt="profile views">
-
 </div>
 
 ---
@@ -35,13 +33,13 @@
 Hola, soy **Nicolás**, desarrollador de automatizaciones con IA y estudiante de ciencia de datos, desde Buenos Aires 🇦🇷.
 Me dedico a que los procesos repetitivos se hagan solos, y me gusta que la gente pueda usar esa tecnología sin tener que entenderla.
 
-- 🤖 **Automatización con IA:** workflows en n8n que detectan, extraen, procesan y envían información sin que nadie los toque. Hoy corren para empresas reales.
-- 🚢 **Último proyecto:** monitoreo normativo aduanero para una empresa de comercio exterior, más un bot de tracking de contenedores que corre en la nube.
-- 🥈 **Desafío Beltrán 2026:** segundo puesto entre todos los equipos de tercer año con *Sin Luz*, un sistema comunitario ante cortes de energía. Mi aporte fue la automatización de reportes semanales.
-- 📊 Estudio **Ciencia de Datos e Inteligencia Artificial** en el Instituto Tecnológico Beltrán y armo dashboards con Python, R y Power BI.
-- 💼 Freelance en **Fiverr** y **Workana**.
-- 🎯 Busco mi primera experiencia como **Automation Developer**, **Analista de Datos** o **Data Trainee**.
-- 💬 Hablame de automatización, IA aplicada a procesos y de cómo devolverle tiempo a un equipo.
+-  **Automatización con IA:** workflows en n8n que detectan, extraen, procesan y envían información sin que nadie los toque. Hoy corren para empresas reales.
+-  **Último proyecto:** monitoreo normativo aduanero para una empresa de comercio exterior, más un bot de tracking de contenedores que corre en la nube.
+-  **Desafío Beltrán 2026:** segundo puesto entre todos los equipos de tercer año con *Sin Luz*, un sistema comunitario ante cortes de energía. Mi aporte fue la automatización de reportes semanales.
+-  Estudio **Ciencia de Datos e Inteligencia Artificial** en el Instituto Tecnológico Beltrán y armo dashboards con Python, R y Power BI.
+-  Freelance en **Fiverr** y **Workana**.
+-  Busco mi primera experiencia como **Automation Developer**, **Analista de Datos** o **Data Trainee**.
+-  Hablame de automatización, IA aplicada a procesos y de cómo devolverle tiempo a un equipo.
 
 <br>
 
