@@ -1,0 +1,21 @@
+{
+  "_comment": "Repos destacados, en orden de aparición en el README. Estrellas, forks y lenguaje vienen en vivo de la API; la descripción de acá pisa la de GitHub.",
+  "projects": [
+    {
+      "repo": "comex-news-automation",
+      "description": "Monitoreo normativo aduanero con IA: boletín diario deduplicado y página para elegir qué noticias enviar a los clientes. n8n, Google Sheets, Gmail."
+    },
+    {
+      "repo": "container-tracking-bot",
+      "description": "Bot de scraping que consulta el tracking de cada naviera según el número de contenedor y actualiza un Excel. Corre en un VPS."
+    },
+    {
+      "repo": "postia",
+      "description": "Automatización end-to-end para publicar contenido en redes sociales con IA. n8n, Docker, Supabase."
+    },
+    {
+      "repo": "Dashboard-Futbol-Argentino",
+      "description": "Análisis interactivo de más de 12.000 jugadores del fútbol argentino (2008-2022). Python y Streamlit."
+    }
+  ]
+}

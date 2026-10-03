@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 420" width="540" height="420" role="img" aria-label="Stack técnico">
+<style>text{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Courier New',monospace}</style>
+<text x="270.0" y="30" text-anchor="middle" fill="#656d76" style="font-size:14px;letter-spacing:2px">STACK TÉCNICO</text>
+<polygon points="270.0,198.8 292.7,211.9 292.7,238.1 270.0,251.2 247.3,238.1 247.3,211.9" fill="none" stroke="#d0d7de" stroke-width="1"/>
+<polygon points="270.0,172.5 315.5,198.8 315.5,251.2 270.0,277.5 224.5,251.3 224.5,198.8" fill="none" stroke="#d0d7de" stroke-width="1"/>
+<polygon points="270.0,146.2 338.2,185.6 338.2,264.4 270.0,303.8 201.8,264.4 201.8,185.6" fill="none" stroke="#d0d7de" stroke-width="1"/>
+<polygon points="270.0,120.0 360.9,172.5 360.9,277.5 270.0,330.0 179.1,277.5 179.1,172.5" fill="none" stroke="#d0d7de" stroke-width="1"/>
+<line x1="270.0" y1="225" x2="270.0" y2="120.0" stroke="#d0d7de"/>
+<line x1="270.0" y1="225" x2="360.9" y2="172.5" stroke="#d0d7de"/>
+<line x1="270.0" y1="225" x2="360.9" y2="277.5" stroke="#d0d7de"/>
+<line x1="270.0" y1="225" x2="270.0" y2="330.0" stroke="#d0d7de"/>
+<line x1="270.0" y1="225" x2="179.1" y2="277.5" stroke="#d0d7de"/>
+<line x1="270.0" y1="225" x2="179.1" y2="172.5" stroke="#d0d7de"/>
+<polygon points="270.0,135.8 338.2,185.6 329.1,259.1 270.0,288.0 206.3,261.8 210.9,190.9" fill="#1a7f37" fill-opacity="0.22" stroke="#1a7f37" stroke-width="2"/>
+<circle cx="270.0" cy="135.8" r="4" fill="#1a7f37"/>
+<text x="270.0" y="100.0" text-anchor="middle" dominant-baseline="middle" fill="#1f2328" style="font-size:14px">n8n</text>
+<circle cx="338.2" cy="185.6" r="4" fill="#1a7f37"/>
+<text x="378.3" y="162.5" text-anchor="start" dominant-baseline="middle" fill="#1f2328" style="font-size:14px">Python</text>
+<circle cx="329.1" cy="259.1" r="4" fill="#1a7f37"/>
+<text x="378.3" y="287.5" text-anchor="start" dominant-baseline="middle" fill="#1f2328" style="font-size:14px">SQL</text>
+<circle cx="270.0" cy="288.0" r="4" fill="#1a7f37"/>
+<text x="270.0" y="350.0" text-anchor="middle" dominant-baseline="middle" fill="#1f2328" style="font-size:14px">R</text>
+<circle cx="206.3" cy="261.8" r="4" fill="#1a7f37"/>
+<text x="161.7" y="287.5" text-anchor="end" dominant-baseline="middle" fill="#1f2328" style="font-size:14px">Streamlit</text>
+<circle cx="210.9" cy="190.9" r="4" fill="#1a7f37"/>
+<text x="161.7" y="162.5" text-anchor="end" dominant-baseline="middle" fill="#1f2328" style="font-size:14px">Power BI</text>
+</svg>
