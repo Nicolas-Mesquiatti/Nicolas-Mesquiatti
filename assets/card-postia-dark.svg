@@ -4,4 +4,8 @@
 <text x="20" y="34" fill="#39ff14" style="font-size:17px;font-weight:700">postia</text>
 <text x="20" y="62" fill="#e6edf3" style="font-size:12.5px">Automatización end-to-end para publicar contenido en redes</text>
 <text x="20" y="81" fill="#e6edf3" style="font-size:12.5px">sociales con IA. n8n, Docker, Supabase.</text>
+<circle cx="25" cy="128" r="5" fill="#e34c26"/>
+<text x="36" y="132" fill="#8b949e" style="font-size:12px">HTML</text>
+<text x="79.6" y="132" fill="#8b949e" style="font-size:12px">★ 0</text>
+<text x="134.6" y="132" fill="#8b949e" style="font-size:12px">forks 0</text>
 </svg>

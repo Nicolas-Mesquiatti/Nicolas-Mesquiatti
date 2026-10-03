@@ -4,4 +4,8 @@
 <text x="20" y="34" fill="#1a7f37" style="font-size:17px;font-weight:700">Dashboard-Futbol-Argentino</text>
 <text x="20" y="62" fill="#1f2328" style="font-size:12.5px">Análisis interactivo de más de 12.000 jugadores del fútbol</text>
 <text x="20" y="81" fill="#1f2328" style="font-size:12.5px">argentino (2008-2022). Python y Streamlit.</text>
+<circle cx="25" cy="128" r="5" fill="#3572A5"/>
+<text x="36" y="132" fill="#656d76" style="font-size:12px">Python</text>
+<text x="94.4" y="132" fill="#656d76" style="font-size:12px">★ 1</text>
+<text x="149.4" y="132" fill="#656d76" style="font-size:12px">forks 0</text>
 </svg>

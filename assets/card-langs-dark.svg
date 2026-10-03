@@ -1,5 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 114" width="480" height="114" role="img" aria-label="Lenguajes">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 284" width="480" height="284" role="img" aria-label="Lenguajes">
 <style>text{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Courier New',monospace}</style>
-<rect x="0.5" y="0.5" width="479" height="113" rx="10" fill="#161b22" stroke="#30363d"/>
+<rect x="0.5" y="0.5" width="479" height="283" rx="10" fill="#161b22" stroke="#30363d"/>
 <text x="24" y="38" fill="#39ff14" style="font-size:17px;font-weight:700">Lenguajes más usados</text>
+<text x="24" y="78" fill="#e6edf3" style="font-size:13px">Python</text>
+<rect x="160" y="68" width="250" height="10" rx="5" fill="#21262d"/>
+<rect x="160" y="68" width="102.3" height="10" rx="5" fill="#3572A5"/>
+<text x="456" y="78" text-anchor="end" fill="#8b949e" style="font-size:13px">41%</text>
+<text x="24" y="112" fill="#e6edf3" style="font-size:13px">HTML</text>
+<rect x="160" y="102" width="250" height="10" rx="5" fill="#21262d"/>
+<rect x="160" y="102" width="79.5" height="10" rx="5" fill="#e34c26"/>
+<text x="456" y="112" text-anchor="end" fill="#8b949e" style="font-size:13px">32%</text>
+<text x="24" y="146" fill="#e6edf3" style="font-size:13px">CSS</text>
+<rect x="160" y="136" width="250" height="10" rx="5" fill="#21262d"/>
+<rect x="160" y="136" width="22.7" height="10" rx="5" fill="#563d7c"/>
+<text x="456" y="146" text-anchor="end" fill="#8b949e" style="font-size:13px">9%</text>
+<text x="24" y="180" fill="#e6edf3" style="font-size:13px">JavaScript</text>
+<rect x="160" y="170" width="250" height="10" rx="5" fill="#21262d"/>
+<rect x="160" y="170" width="22.7" height="10" rx="5" fill="#f1e05a"/>
+<text x="456" y="180" text-anchor="end" fill="#8b949e" style="font-size:13px">9%</text>
+<text x="24" y="214" fill="#e6edf3" style="font-size:13px">R</text>
+<rect x="160" y="204" width="250" height="10" rx="5" fill="#21262d"/>
+<rect x="160" y="204" width="11.4" height="10" rx="5" fill="#198CE7"/>
+<text x="456" y="214" text-anchor="end" fill="#8b949e" style="font-size:13px">5%</text>
+<text x="24" y="248" fill="#e6edf3" style="font-size:13px">Jupyter Notebook</text>
+<rect x="160" y="238" width="250" height="10" rx="5" fill="#21262d"/>
+<rect x="160" y="238" width="11.4" height="10" rx="5" fill="#DA5B0B"/>
+<text x="456" y="248" text-anchor="end" fill="#8b949e" style="font-size:13px">5%</text>
 </svg>
